@@ -1,12 +1,13 @@
 # DICTIONARY
 ## Table of Contents
 * Javascript
-  1. Basic Terminology
-  2. Methods
-* Command Line
-* HTML
-* CSS
-* GIT
+  1. [Basic Terminology](#basic-terminology)
+  2. [Methods](#methods)
+* [Command Line](#command-line)
+* [HTML](#html)
+* [CSS](css)
+* [GIT](#git)
+* [Python](#python)
 # Javescript
 ## Basic Terminology
 #### Function Defintion
@@ -35,10 +36,22 @@ def add_numbers(x, y):
 
 # GIT
 
-<!-- Reusable
- *Definition:
+# Python
+
+
+
+<!-- REUASABLE
+
+//WORD DESCRIPTIONS//
+
+*Definition:
 *Example:
 ```
 
 ```
+
+//TABLE OF CONTENTS//
+[Header name you want to link](#headername)
+
+
 --!>
