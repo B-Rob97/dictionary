@@ -14,10 +14,12 @@
 * Definition: A self contained block of code that performs a specific task / set of tasks 
 * Example:
 ```javascript
-// This function adds two numbers.
-def add_numbers(x, y):
-    result = x + y
-    return result
+// This function concatenates two strings.
+function eat(food) {
+  return food + " tasted really good."
+};
+
+console.log(eat('bananas'));
 ```
 #### Function Execution
 *Definition:
