@@ -1,4 +1,12 @@
 # DICTIONARY
+## Table of Contents
+* Javascript
+  1. Basic Terminology
+  2. Methods
+* Command Line
+* HTML
+* CSS
+* GIT
 # Javescript
 ## Basic Terminology
 #### Function Defintion
