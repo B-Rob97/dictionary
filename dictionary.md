@@ -22,9 +22,15 @@ function eat(food) {
 console.log(eat('bananas'));
 ```
 #### Function Execution
-*Definition:
+*Definition: Function execution involves calling a function in your code, providing any required input values (arguments), letting the function's code run, and receiving any output or return value produced by the function.
 *Example:
-```
+```js
+function multiply(a, b) {
+  return a * b;
+}
+// This part is the function execution
+const result = multiply(5, 5);
+console.log(result); // Output: 25
 
 ```
 
